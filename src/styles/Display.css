@@ -1,0 +1,16 @@
+.display-box {
+    position: relative;
+    height: 5rem;
+    width: 20rem;
+    background-color: #858694;
+    color: white;
+    text-align: right;
+    font-weight: 500;
+    font-size: 2.5rem;
+}
+
+.display-text {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
