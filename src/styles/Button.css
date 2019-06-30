@@ -1,0 +1,20 @@
+.button-container button {
+    background-color: grey;
+    color: white;
+    width: 3.5rem;
+    height: 2rem;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    border-top:2px solid transparent;
+}
+
+.button-container.white button {
+    background-color: white;
+    color: black;
+}
+
+.button-container.orange button {
+    background-color: orange;
+    color: white;
+}

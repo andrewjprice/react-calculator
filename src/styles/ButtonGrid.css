@@ -1,0 +1,9 @@
+.component-button-grid {
+    position: relative;
+    display: grid;
+    top: 2rem;
+    height: 14rem;
+    margin: 1rem;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 20px;
+}
