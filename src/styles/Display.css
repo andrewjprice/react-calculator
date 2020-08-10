@@ -8,6 +8,7 @@
 
 .display-input {
     position:relative;
+    overflow: auto;
     left: 0px;
     top: 2px;
     height: 2.5rem;
